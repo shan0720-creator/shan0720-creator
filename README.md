@@ -41,3 +41,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shan0720-creator&" alt="shan0720-creator" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shan0720-creator" alt="shan0720-creator" /></a> </p>
 
+# Snake eating my contribution graph
+![snake gif](https://github.com/shan0720-creator/shan0720-creator/blob/output/github-contribution-grid-snake.gif)
